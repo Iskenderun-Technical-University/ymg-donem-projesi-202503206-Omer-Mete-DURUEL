@@ -8,9 +8,9 @@
    <h1>Projenin Amacı:</h1>
   Stok Takip Otomasyonunu yapmaktaki amacım kullanıcının basit bir şeklilde aldığı ve sattığı ürünleri tutmasına yardımcı olamk.Müşteri bilgilerini de düzenli bir şekilde kaydetmesini sağlamak.
   <h1>Use-Case Diagramı:</h1>
-   ![Proje Use Case](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-202503206-Omer-Mete-DURUEL/assets/84865874/8aab1a79-0e2a-4908-be6c-38366edb0ed3)
+   <img src="https://cdn.discordapp.com/attachments/918910934133641267/1115216521799675984/Proje_Use_Case.png" alt="Diagram" width="800" height="600">
 
    <h1>Kullanılacak Veri Tabanı Tabloları :</h1>
-   Projede kullanılacak muhtemel veri tabanı tabloları ürün kategorileri,markaları,adetleri,fiyatları.Müşteri kısmında ise isim soyisim ,TC No,telefeon numarası,e-posta aderesi.
+   Projede kullanılacak muhtemel veri tabanı tabloları ürün kategorileri,markaları,adetleri,fiyatları.Müşteri kısmında ise isim soyisim ,TC No,telefeon numarası,e-posta adresi.
    
    <h3>Bu readme.md dosyası pull sırasında silindiği için tekrar yüklenmiştir</h3>
